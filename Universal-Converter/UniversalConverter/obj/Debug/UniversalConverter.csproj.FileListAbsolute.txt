@@ -1,0 +1,38 @@
+c:\Users\Ilya Shevtsov\source\repos\UniversalConverter\UniversalConverter\bin\Debug\UniversalConverter.exe.config
+c:\Users\Ilya Shevtsov\source\repos\UniversalConverter\UniversalConverter\bin\Debug\UniversalConverter.exe
+c:\Users\Ilya Shevtsov\source\repos\UniversalConverter\UniversalConverter\bin\Debug\UniversalConverter.pdb
+c:\Users\Ilya Shevtsov\source\repos\UniversalConverter\UniversalConverter\obj\Debug\UniversalConverter.csprojAssemblyReference.cache
+c:\Users\Ilya Shevtsov\source\repos\UniversalConverter\UniversalConverter\obj\Debug\UniversalConverter.Properties.Resources.resources
+c:\Users\Ilya Shevtsov\source\repos\UniversalConverter\UniversalConverter\obj\Debug\UniversalConverter.csproj.GenerateResource.cache
+c:\Users\Ilya Shevtsov\source\repos\UniversalConverter\UniversalConverter\obj\Debug\UniversalConverter.csproj.CoreCompileInputs.cache
+c:\Users\Ilya Shevtsov\source\repos\UniversalConverter\UniversalConverter\obj\Debug\UniversalConverter.exe
+c:\Users\Ilya Shevtsov\source\repos\UniversalConverter\UniversalConverter\obj\Debug\UniversalConverter.pdb
+c:\Users\Ilya Shevtsov\source\repos\UniversalConverter\UniversalConverter\obj\Debug\UniversalConverter.AppForm.resources
+c:\Users\Ilya Shevtsov\source\repos\UniversalConverter\UniversalConverter\obj\Debug\UniversalConverter.ReferenceForm.resources
+c:\Users\Ilya Shevtsov\source\repos\UniversalConverter\UniversalConverter\obj\Debug\UniversalConverter.HistoryForm.resources
+C:\Users\mdzek\source\repos\Universal-Converter-master\UniversalConverter\bin\Debug\UniversalConverter.exe.config
+C:\Users\mdzek\source\repos\Universal-Converter-master\UniversalConverter\bin\Debug\UniversalConverter.exe
+C:\Users\mdzek\source\repos\Universal-Converter-master\UniversalConverter\bin\Debug\UniversalConverter.pdb
+C:\Users\mdzek\source\repos\Universal-Converter-master\UniversalConverter\obj\Debug\UniversalConverter.csprojAssemblyReference.cache
+C:\Users\mdzek\source\repos\Universal-Converter-master\UniversalConverter\obj\Debug\UniversalConverter.AppForm.resources
+C:\Users\mdzek\source\repos\Universal-Converter-master\UniversalConverter\obj\Debug\UniversalConverter.CalculatorForm.resources
+C:\Users\mdzek\source\repos\Universal-Converter-master\UniversalConverter\obj\Debug\UniversalConverter.HistoryForm.resources
+C:\Users\mdzek\source\repos\Universal-Converter-master\UniversalConverter\obj\Debug\UniversalConverter.Properties.Resources.resources
+C:\Users\mdzek\source\repos\Universal-Converter-master\UniversalConverter\obj\Debug\UniversalConverter.ReferenceForm.resources
+C:\Users\mdzek\source\repos\Universal-Converter-master\UniversalConverter\obj\Debug\UniversalConverter.csproj.GenerateResource.cache
+C:\Users\mdzek\source\repos\Universal-Converter-master\UniversalConverter\obj\Debug\UniversalConverter.csproj.CoreCompileInputs.cache
+C:\Users\mdzek\source\repos\Universal-Converter-master\UniversalConverter\obj\Debug\UniversalConverter.exe
+C:\Users\mdzek\source\repos\Universal-Converter-master\UniversalConverter\obj\Debug\UniversalConverter.pdb
+C:\Users\mdzek\source\repos\Universal-Converter\UniversalConverter\bin\Debug\UniversalConverter.exe.config
+C:\Users\mdzek\source\repos\Universal-Converter\UniversalConverter\bin\Debug\UniversalConverter.exe
+C:\Users\mdzek\source\repos\Universal-Converter\UniversalConverter\bin\Debug\UniversalConverter.pdb
+C:\Users\mdzek\source\repos\Universal-Converter\UniversalConverter\obj\Debug\UniversalConverter.csprojAssemblyReference.cache
+C:\Users\mdzek\source\repos\Universal-Converter\UniversalConverter\obj\Debug\UniversalConverter.AppForm.resources
+C:\Users\mdzek\source\repos\Universal-Converter\UniversalConverter\obj\Debug\UniversalConverter.CalculatorForm.resources
+C:\Users\mdzek\source\repos\Universal-Converter\UniversalConverter\obj\Debug\UniversalConverter.HistoryForm.resources
+C:\Users\mdzek\source\repos\Universal-Converter\UniversalConverter\obj\Debug\UniversalConverter.Properties.Resources.resources
+C:\Users\mdzek\source\repos\Universal-Converter\UniversalConverter\obj\Debug\UniversalConverter.ReferenceForm.resources
+C:\Users\mdzek\source\repos\Universal-Converter\UniversalConverter\obj\Debug\UniversalConverter.csproj.GenerateResource.cache
+C:\Users\mdzek\source\repos\Universal-Converter\UniversalConverter\obj\Debug\UniversalConverter.csproj.CoreCompileInputs.cache
+C:\Users\mdzek\source\repos\Universal-Converter\UniversalConverter\obj\Debug\UniversalConverter.exe
+C:\Users\mdzek\source\repos\Universal-Converter\UniversalConverter\obj\Debug\UniversalConverter.pdb
